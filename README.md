@@ -2,6 +2,8 @@
 
 This is the math used for drawing the clock. Check it out [here](https://htmlpreview.github.io/?https://github.com/2bonahill/analog-clock/blob/main/index.html).
 
+![Alt text](https://github.com/2bonahill/analog-clock/blob/main/analog-clock.png)
+
 ## Background:
  
 As Math.sin uses radians (not angles in degrees) as input, we have to do all in radians. In a unit circle (where radius = 1), the circumference is 2*pi, which corresponds to 360 degrees.
