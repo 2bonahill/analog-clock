@@ -1,6 +1,6 @@
 # A purely Javascript based analog clock
 
-This is the math used for drawing the clock.
+This is the math used for drawing the clock. Check it out [here](https://htmlpreview.github.io/?https://github.com/2bonahill/analog-clock/blob/main/index.html).
 
 ## Background:
  
