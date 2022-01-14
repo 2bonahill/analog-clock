@@ -2,7 +2,7 @@
 
 This is the math used for drawing the clock. Check it out [here](https://htmlpreview.github.io/?https://github.com/2bonahill/analog-clock/blob/main/index.html).
 
-[Alt text](https://github.com/2bonahill/analog-clock/blob/main/analog-clock.png)
+![Clock](https://github.com/2bonahill/analog-clock/blob/main/analog-clock.png?raw=true)
 
 ## Background:
  
