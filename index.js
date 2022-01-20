@@ -3,7 +3,7 @@
  */
 
 // setting up the canvas
-clockSize = 400;
+clockSize = 800;
 var c = document.getElementById("clock");
 c.width = clockSize;
 c.height = clockSize;
